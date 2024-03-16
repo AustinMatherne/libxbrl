@@ -1,8 +1,12 @@
 [package]
 name = "libxbrl"
 version = "0.1.0"
+authors = ["Austin Matherne <AustinMatherne@ProtonMail.ch>"]
 edition = "2021"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+description = "XBRL processor"
+repository = "https://github.com/AustinMatherne/libxbrl/"
+license = "MIT OR Apache-2.0"
+keywords = ["xbrl"]
+categories = ["finance", "parser-implementation"]
 
 [dependencies]
